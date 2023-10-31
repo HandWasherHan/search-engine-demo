@@ -1,0 +1,8 @@
+Editing
+"Wikitext" redirects here. For the Wikipedia help page, see Help:Wikitext.
+Source editing
+Some wikis have an edit button or link directly on the page being viewed if the user has permission to edit the page. This can lead to a text-based editing page where participants can structure and format wiki pages with a simplified markup language, sometimes known as wikitext, wiki markup or wikicode (it can also lead to a WYSIWYG editing page; see the paragraph after the table below). For example, starting lines of text with asterisks could create a bulleted list. The style and syntax of wikitexts can vary greatly among wiki implementations,[example needed] some of which also allow HTML tags.
+
+Layout consistency
+Wikis have favored plain-text editing, with fewer and simpler conventions than HTML for indicating style and structure. Although limiting access to HTML and Cascading Style Sheets (CSS) of wikis limits user ability to alter the structure and formatting of wiki content, there are some benefits. Limited access to CSS promotes consistency in the look and feel, and having JavaScript disabled prevents a user from implementing code that may limit other users' access.
+
